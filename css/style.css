@@ -145,11 +145,11 @@ body{
 	margin-bottom: 85px;
 }
 .slider__inner{
-	background: url(./images/slider-bg.jpg) no-repeat left;
+	background: url(../images/slider-bg.jpg) no-repeat left;
 	background-size: cover;
 }
 .slider__inner--two{
-	background: url(./images/slider-bg2.jpg) no-repeat left;
+	background: url(../images/slider-bg2.jpg) no-repeat left;
 	background-size: cover;
 }
 .slider__content{
@@ -234,7 +234,7 @@ body{
 .about__box-title--one::after{
 	content: '';
 	position: absolute;
-	background: url(/images/shield-ico.svg);
+	background: url(../images/shield-ico.svg);
 	width: 33px;
 	height: 35px;
 	right: 0;
@@ -243,7 +243,7 @@ body{
 .about__box-title--two::after{
 	content: '';
 	position: absolute;
-	background: url(/images/open-ico.svg);
+	background: url(../images/open-ico.svg);
 	width: 27px;
 	height: 27px;
 	right: 0;
@@ -252,7 +252,7 @@ body{
 .about__box-title--third::after{
 	content: '';
 	position: absolute;
-	background: url(/images/connect-ico.svg);
+	background: url(../images/connect-ico.svg);
 	width: 31px;
 	height: 20px;
 	right: 0;
@@ -275,7 +275,7 @@ body{
 	display: flex;
 }
 .benefits__box{
-	background: url(/images/benefits-bg.jpg) no-repeat top center;
+	background: url(../images/benefits-bg.jpg) no-repeat top center;
 	background-size: cover;
 	display: flex;
 	flex-direction: column;
@@ -576,7 +576,7 @@ body{
 .info__link--address::before{
 	content: '';
 	position: absolute;
-	background: url(/images/location-ico.svg);
+	background: url(../images/location-ico.svg);
 	width: 18px;
 	height: 27px;
 	top: 0;
@@ -585,7 +585,7 @@ body{
 .info__link--mail::before{
 	content: '';
 	position: absolute;
-	background: url(/images/mail-ico.svg);
+	background: url(../images/mail-ico.svg);
 	width: 24px;
 	height: 24px;
 	top: 0;
@@ -594,7 +594,7 @@ body{
 .info__link--tel::before{
 	content: '';
 	position: absolute;
-	background: url(/images/phone-ico.svg);
+	background: url(../images/phone-ico.svg);
 	width: 23px;
 	height: 23px;
 	top: 0;
